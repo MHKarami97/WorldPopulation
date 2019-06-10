@@ -17,3 +17,5 @@ Chart:
 <img src="http://s5.picofile.com/file/8363131542/Annotation_2019_06_10_114920.jpg" width="400" />  
 <img src="http://s3.picofile.com/file/8363131550/Annotation_2019_06_10_114939.jpg" width="400" />  
 <img src="http://s3.picofile.com/file/8363131600/Annotation_2019_06_10_114957.jpg" width="400" />  
+<img src="http://s5.picofile.com/file/8363136850/Annotation_2019_06_10_123752.jpg" width="400" />  
+<img src="http://s4.picofile.com/file/8363136876/Annotation_2019_06_10_124004.jpg" width="400" />  
